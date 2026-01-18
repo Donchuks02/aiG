@@ -1,10 +1,9 @@
-# SnapEdit
+# aiG
 Free AI Image Editor, Instant Photo Editing Without Prompts.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![Status](https://img.shields.io/badge/Status-MVP-brightgreen)
 ![Version](https://img.shields.io/badge/Version-0.1.0-blue)
-![Node](https://img.shields.io/badge/Node-18+-green)
 
 **Edit photos instantly with AI. No prompts. No learning curve. Just click and download.**
 
@@ -12,19 +11,17 @@ Transform your images with professional AI editing in seconds. Choose from pre-d
 
 ---
 
-## What is SnapEdit?
+## What is aiG ?
 
-SnapEdit is a **free, open-source AI-powered image editor** that removes the friction from AI photo editing. Instead of writing complex prompts, users simply:
+aiG is a **free, open-source AI-powered image editor** that removes the friction from AI photo editing. Instead of writing complex prompts, users simply:
 
 1. **Browse** visual editing templates (Vintage, Vibrant, B&W, etc.)
 2. **Click** the style they want
 3. **Upload** their image
 4. **Download** the AI-edited result
 
-Built with **Google's Gemini Nano API**, SnapEdit delivers professional-quality edits instantly,perfect for:
+Built with **Google's Gemini Nano API**, aiG delivers professional-quality edits instantly,perfect for:
 -  **Content Creators** - Quick Instagram/TikTok content
--  **Designers** - Fast mockups and iterations
--  **Social Media Managers** - Batch editing with consistency
 -  **Photographers** - Quick touches without desktop software
 -  **Casual Users** - Beautiful edits, no technical knowledge
 
@@ -55,14 +52,14 @@ Built with **Google's Gemini Nano API**, SnapEdit delivers professional-quality 
 ##  Quick Start
 
 ### Live Demo
- **[Try SnapEdit Now](https://snapedit.app)** (demo link when deployed)
+ **[Try aiG Now](https://aiG.app)** (demo link when deployed)
 
 ### Local Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/snapedit.git
-cd snapedit
+git clone https://github.com/yourusername/aiG.git
+cd aiG
 
 # Install dependencies (both frontend & backend)
 npm install
@@ -102,7 +99,7 @@ npm run dev
 ### User Flow
 
 ```
-1. User visits SnapEdit
+1. User visits aiG
 2. Browsing gallery of AI editing templates
 3. Selects desired editing style (e.g., "Vintage Film")
 4. Uploads their image (JPEG, PNG, WebP)
@@ -194,8 +191,8 @@ We love contributions! Whether you're fixing bugs, adding features, or improving
 
 ##  FAQ
 
-### Q: Is SnapEdit free?
-**A:** Yes! SnapEdit is completely free and open source (MIT License).
+### Q: Is aiG free?
+**A:** Yes! aiG is completely free and open source (MIT License).
 
 ### Q: Do I need an account?
 **A:** No account required. Just upload and edit.
@@ -203,7 +200,7 @@ We love contributions! Whether you're fixing bugs, adding features, or improving
 ### Q: Are my images stored?
 **A:** No. Images are deleted after download. We don't store anything.
 
-### Q: Can I use SnapEdit offline?
+### Q: Can I use aiG offline?
 **A:** Not yet, Currently requires internet connection.
 
 ### Q: Is there an API for developers?
@@ -213,13 +210,13 @@ We love contributions! Whether you're fixing bugs, adding features, or improving
 **A:** Absolutely!
 
 ### Q: How does it compare to [Photoshop/Canva/etc]?
-**A:** SnapEdit is for quick, AI-powered edits without learning curves. It's complementary to professional tools, not a replacement.
+**A:** aiG is for quick, AI-powered edits without learning curves. It's complementary to professional tools, not a replacement.
 
 ---
 
-## Why SnapEdit?
+## Why aiG?
 
-| Feature | SnapEdit | Competitors |
+| Feature | aiG | Competitors |
 |---------|----------|-------------|
 | **No Prompts** | ✅ Yes | ❌ No |
 | **Free** | ✅ Yes | ❌ Often paid |
@@ -234,7 +231,7 @@ We love contributions! Whether you're fixing bugs, adding features, or improving
 
 ## License
 
-SnapEdit is open source software licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute it.
+aiG is open source software licensed under the [MIT License](LICENSE). You're free to use, modify, and distribute it.
 
 ---
 
@@ -252,7 +249,8 @@ SnapEdit is open source software licensed under the [MIT License](LICENSE). You'
 - **[Developer 1]** - Backend Lead
 - **[Developer 2]** - Frontend Lead
 - **[Developer 3]** - Backend
+
+- 
 - Image enhancement, photo enhancement AI
 - Free online photo editor, web-based image editor
 - Social media content creation, quick photo editing
-- Batch image processing, image transformation
